@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo and cd into it
 sh
-git clone https://github.com/meetcodeman/rot_13.git
+`git clone https://github.com/devfield0/rot13-encoder.git`
 2. Move into the project directory
 `cd rot13`
 
